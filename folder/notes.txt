@@ -1,0 +1,101 @@
+----LINKS--------||||------------------
+
+
+https://github.com/wanderling/vangogh/
+https://thevangogh.in
+https://vangogh-search.herokuapp.com/  ->  Live from GITHUB
+
+
+----SERVER--------||||------------------
+
++ Set status logging
+
+----SYSTEM--------||||------------------
+
+
+
+----UI------------||||------------------
+
++ SMOOTH EDGE FOR PLOTS !!!
++ About
+* rotSpeed in fullscreen
+
+----DONE----------||||-------------------
+
+
+//* cookie fomalise
+//* remove _ in place of second space
+//+ Run on production server
+//+ Get HTTPS
+//+ overlay for dark
+//* sample image set
+//+ minimise file size
+//+ increase asset loading speed
+//* overlay refining
+//+ change blog to about
+//+ logger
+//+	say hi
+//+ how it works
+//+ image viewing/adding/deleting api
+//+ cache archiving and deleting api
+//+ cache auto clear on multiple refresh
+//* cluster filtering change
+//+ loader gif text
+//* unify icons
+//* close button on full screen
+//+ set cookie
+//+ mobile block
+//+ cloud storage setup
+//+ cache setup
+//+ palette creation
+//* full screen integ
+//* index styling
+//+ full screen for image
+//+ nav system
+//+ colorSpace and clipBoard
+//+ image transitionStyle
+//+ search refresh button
+//+ customisible palette in swatch
+//+ palette size selection
+//+ palette sel and plot indication systems
+//+ keyboard controls
+//+ help overlay
+//* reduce bg grey value
+//* remove sharp corners
+//+ landing page redesign
+
+----PROMPT--------||||-------------------
+
+
+search
+contextually associated
+examples - emotion, concepts, color for every word ..?
+compound words
+color palettes, why ?
+
+
+----NOTE----------||||-------------------
+
+
+focus on search, image tool is not new/cool
+
+
+----NAV-----------||||-------------------
+
+index  -> search | searchbar
+	   -> image  | button
+
+
+search -> search | button | disabled
+	   -> home   | button
+	   -> image  | button
+
+image  -> search | button 
+	   -> home   | logo
+	   -> image  | button | disabled
+
+
+----SNIPS---------||||-------------------
+
+#141414 dark
+#FAFAFA light
